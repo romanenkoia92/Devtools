@@ -1,5 +1,7 @@
 # Devtools
 
+https://drive.google.com/file/d/1qtsZunmy8kwd0fTJfQocIz99iE1S6zef/view?usp=sharing
+
 Devtools HW
 
 Сделать скрин видео выполнения задания.
